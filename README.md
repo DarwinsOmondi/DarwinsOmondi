@@ -23,5 +23,7 @@ I'm always looking to collaborate on Android, AI, and real-time systems. Let’s
 
 📫 Connect With Me
 LinkedIn:https://www.linkedin.com/in/darwins-omondi-55102529a
+
 GitHub: @DarwinsOmondi
+
 ⚡ Fun Fact: I love adrenaline-fueled activities like F1 racing and enjoy breaking down classic films like Interstellar & Battleship Potemkin!
