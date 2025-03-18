@@ -5,7 +5,6 @@
 I'm passionate about building intuitive, high-performance applications that solve real-world problems. I specialize in Android development with Jetpack Compose and have experience in Laravel, Firebase, Supabase, and real-time applications.
 
 🌱 **Currently Learning**  
-- AI integration in mobile apps  
 - Advanced Supabase features  
 - Optimizing real-time applications  
 - Enhancing UI/UX in Jetpack Compose  
