@@ -16,8 +16,6 @@ I'm passionate about building intuitive, high-performance applications that solv
 - **Retrofit Music App** – A modern music streaming app powered by Retrofit  
 
 
-
-
 💞️ Open to Collaborations
 I'm always looking to collaborate on Android, AI, and real-time systems. Let’s build something great together!
 
