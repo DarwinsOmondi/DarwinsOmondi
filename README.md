@@ -13,7 +13,8 @@ I'm passionate about building intuitive, high-performance applications that solv
 - **HealthBridge** – A telehealth app using Supabase  
 - **SquibleSquad** – A note-taking app with a dynamic UI  
 - **AgriMata** – A smart agriculture management app using Firebase for authentication and Supabase for real-time features  
-- **Retrofit Music App** – A modern music streaming app powered by Retrofit  
+- **Retrofit Music App** – A modern music streaming app powered by Retrofit
+- **Plotpot** - A collaborative storytelling app where stories are brought to life through videos 
 
 
 💞️ Open to Collaborations
