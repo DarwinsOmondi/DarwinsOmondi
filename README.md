@@ -2,7 +2,6 @@
 🚀 Software Developer | Android Enthusiasts 
 👀 About Me
 I'm passionate about building intuitive, high-performance applications that solve real-world problems. I specialize in Android development with Jetpack Compose and have experience in Laravel, Firebase, Supabase, and real-time applications.
-
  
 🌱 **Currently Learning**  
 - Optimizing real-time applications  
