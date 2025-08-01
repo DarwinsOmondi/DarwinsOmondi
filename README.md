@@ -3,6 +3,7 @@
 
 **About Me**
 
+
 I am a dedicated software developer with a strong passion for building high-quality, intuitive applications that address real-world challenges. My core focus is Android development using Jetpack Compose, where I specialize in creating responsive UIs and integrating complex features seamlessly. I also have experience in Laravel, Firebase, Supabase, and developing real-time systems.
 
 **What I’m Currently Exploring**
